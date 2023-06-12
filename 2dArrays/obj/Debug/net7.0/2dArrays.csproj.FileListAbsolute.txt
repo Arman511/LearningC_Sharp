@@ -1,0 +1,15 @@
+C:\Users\Arman\OneDrive\Documents\GitHub\LearningC#\2dArrays\bin\Debug\net7.0\2dArrays.exe
+C:\Users\Arman\OneDrive\Documents\GitHub\LearningC#\2dArrays\bin\Debug\net7.0\2dArrays.deps.json
+C:\Users\Arman\OneDrive\Documents\GitHub\LearningC#\2dArrays\bin\Debug\net7.0\2dArrays.runtimeconfig.json
+C:\Users\Arman\OneDrive\Documents\GitHub\LearningC#\2dArrays\bin\Debug\net7.0\2dArrays.dll
+C:\Users\Arman\OneDrive\Documents\GitHub\LearningC#\2dArrays\bin\Debug\net7.0\2dArrays.pdb
+C:\Users\Arman\OneDrive\Documents\GitHub\LearningC#\2dArrays\obj\Debug\net7.0\2dArrays.csproj.AssemblyReference.cache
+C:\Users\Arman\OneDrive\Documents\GitHub\LearningC#\2dArrays\obj\Debug\net7.0\2dArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arman\OneDrive\Documents\GitHub\LearningC#\2dArrays\obj\Debug\net7.0\2dArrays.AssemblyInfoInputs.cache
+C:\Users\Arman\OneDrive\Documents\GitHub\LearningC#\2dArrays\obj\Debug\net7.0\2dArrays.AssemblyInfo.cs
+C:\Users\Arman\OneDrive\Documents\GitHub\LearningC#\2dArrays\obj\Debug\net7.0\2dArrays.csproj.CoreCompileInputs.cache
+C:\Users\Arman\OneDrive\Documents\GitHub\LearningC#\2dArrays\obj\Debug\net7.0\2dArrays.dll
+C:\Users\Arman\OneDrive\Documents\GitHub\LearningC#\2dArrays\obj\Debug\net7.0\refint\2dArrays.dll
+C:\Users\Arman\OneDrive\Documents\GitHub\LearningC#\2dArrays\obj\Debug\net7.0\2dArrays.pdb
+C:\Users\Arman\OneDrive\Documents\GitHub\LearningC#\2dArrays\obj\Debug\net7.0\2dArrays.genruntimeconfig.cache
+C:\Users\Arman\OneDrive\Documents\GitHub\LearningC#\2dArrays\obj\Debug\net7.0\ref\2dArrays.dll
