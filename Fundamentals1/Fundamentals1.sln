@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.6.33723.286
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fundamentals1", "Fundamentals1.csproj", "{3CEA87CB-2224-4089-A276-E634A9812452}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArraysAndJaggedArrays", "ArraysAndJaggedArrays.csproj", "{3CEA87CB-2224-4089-A276-E634A9812452}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

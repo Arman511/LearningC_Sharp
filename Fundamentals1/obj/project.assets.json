@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Arman\\OneDrive\\Documents\\GitHub\\LearningC#\\Fundamentals1\\Fundamentals1.csproj",
-      "projectName": "Fundamentals1",
-      "projectPath": "C:\\Users\\Arman\\OneDrive\\Documents\\GitHub\\LearningC#\\Fundamentals1\\Fundamentals1.csproj",
+      "projectUniqueName": "C:\\Users\\Arman\\OneDrive\\Documents\\GitHub\\LearningC#\\Fundamentals1\\ArraysAndJaggedArrays.csproj",
+      "projectName": "ArraysAndJaggedArrays",
+      "projectPath": "C:\\Users\\Arman\\OneDrive\\Documents\\GitHub\\LearningC#\\Fundamentals1\\ArraysAndJaggedArrays.csproj",
       "packagesPath": "C:\\Users\\Arman\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Arman\\OneDrive\\Documents\\GitHub\\LearningC#\\Fundamentals1\\obj\\",
       "projectStyle": "PackageReference",
