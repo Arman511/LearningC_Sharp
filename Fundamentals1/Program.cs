@@ -10,10 +10,37 @@ class Program
     };
     static void Main(string[] args)
     {
-        //Array();
+        Array();
+        Console.WriteLine();
 
-        //JaggedArrays();
+        JaggedArrays();
+        Console.WriteLine();
 
+        ArrayLists();
+        Console.WriteLine();
+
+        Lists();
+    }
+
+    private static void Lists()
+    {
+        var list = new List<int>();
+        list.Add(1);
+        list.Remove(1);
+        list.Add(2);
+        list.Add(3);
+        list.Add(4);    
+        list.Add(5);
+        list.RemoveAt(0);
+        var friends = new List<string> { "jeff", "joe", "Jemima" };
+        foreach (var item in friends)
+        {
+            Console.WriteLine(item);
+        }
+    }
+
+    private static void ArrayLists()
+    {
         ArrayList myArrayList = new ArrayList();
         ArrayList myArrayList2 = new ArrayList(100);
 
@@ -44,12 +71,12 @@ class Program
         int sum = 0;
         foreach (object i in myArrayList)
         {
-            if(i is int)
+            if (i is int)
             {
                 sum += Convert.ToInt32(i);
             }
         }
-        Console.WriteLine("Sum of ArrayList: "+sum);
+        Console.WriteLine("Sum of ArrayList: " + sum);
     }
 
     private static void SeeArray(ArrayList array)
